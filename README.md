@@ -10,8 +10,8 @@ There are multiple temperature measurement samples taken per day, hence the vert
 
 ![](images/image1.png)
 ![](images/image2.png)
-
-
+<br />
+<br />
 Ocean temperature plotting of data using MATLAB. <br />
 Data source: AIMS https://www.aims.gov.au/docs/data/data.html. Subset of "temp-logger.csv". <br />
 Sampling location: Bramble Cay, QLD, AU. <br />
