@@ -32,5 +32,5 @@ Run the Python code file with the data file supplied. Two plots will appear (bel
 There are multiple temperature measurement samples taken per day, hence the vertical stacking of points in the below plots. 
 
 
-![](images/figure_1_python.png)
-![](images/figure_2_python.png)
+![](images/Figure_1_python.png)
+![](images/Figure_2_python.png)
