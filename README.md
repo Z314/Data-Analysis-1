@@ -53,8 +53,8 @@ Data file name: townsville_temp_BOM.xlsx.<br />
 Barplot of Townsville Temperatures: The Annual average maximum temperatures from 1941 to 2018.<br />
 Vertical and horizontal barplots are compiled.<br />
 
-![](images/rplot2a_townsvillle_temp.png)
-![](images/rplot2b_townsvillle_temp.png)
+![](images/rplot2a_townsville_temp.png)
+![](images/rplot2b_townsville_temp.png)
 
 <br /><br />
 
