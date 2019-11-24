@@ -1,6 +1,6 @@
 # Data-Visualisation-1
 
-Ocean temperature plotting of data using R. <br />
+<h1>Ocean temperature plotting of data using R.<h1> <br />
 Based on Australian Institute of Marine Science data source: https://www.aims.gov.au/docs/data/data.html. Subset of "temp-logger.csv". <br />
 Sampling location: Bramble Cay, QLD, AU. <br />
 Data is located in data.zip. <br />
