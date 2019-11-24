@@ -1,6 +1,6 @@
 # Data-Visualisation-1
 
-<h1>Ocean temperature plotting of data using R.<h1> <br />
+<h1>Ocean temperature plotting of data using R.<h1/> <br />
 Based on Australian Institute of Marine Science data source: https://www.aims.gov.au/docs/data/data.html. Subset of "temp-logger.csv". <br />
 Sampling location: Bramble Cay, QLD, AU. <br />
 Data is located in data.zip. <br />
@@ -12,7 +12,7 @@ There are multiple temperature measurement samples taken per day, hence the vert
 ![](images/image2.png)
 <br />
 <br />
-Ocean temperature plotting of data using MATLAB. <br />
+<h1>Ocean temperature plotting of data using MATLAB.<h1/> <br />
 Based on Australian Institute of Marine Science data source: https://www.aims.gov.au/docs/data/data.html. Subset of "temp-logger.csv". <br />
 Sampling location: Bramble Cay, QLD, AU. <br />
 Data is located in data2.zip. <br />
@@ -24,7 +24,7 @@ There are multiple temperature measurement samples taken per day, hence the vert
 ![](images/fig2.png)
 <br />
 <br />
-Ocean temperature plotting of data using Python. <br />
+<h1>Ocean temperature plotting of data using Python.<h1/> <br />
 Based on Australian Institute of Marine Science data source: https://www.aims.gov.au/docs/data/data.html. Subset of "temp-logger.csv". <br />
 Sampling location: Bramble Cay, QLD, AU. <br />
 Data is located in data2.zip. <br />
@@ -37,9 +37,9 @@ There are multiple temperature measurement samples taken per day, hence the vert
 
 <br /><br />
 
-The below uses R to plot temperatures in Townsville (line graphs with regression line). Four months of each year are plotted.<br />
+<h1>The below uses R to plot temperatures in Townsville (line graphs with regression line). Four months of each year are plotted.<h1/><br />
 Data source: BOM http://www.bom.gov.au/climate/data/index.shtml?bookmark=200.<br />
-Data file name: townsville_temp_BOM.xlsx.<br />
+Data file name: townsville_temp_BOM.xlsx in data3.zip<br />
 Plot of Townsville Temperatures: The Monthly mean maximum temperatures from 1940 to 2019.<br />
 Line plots of raw data and also regression lines for four months of the year.<br />
 
@@ -47,9 +47,9 @@ Line plots of raw data and also regression lines for four months of the year.<br
 
 <br /><br />
 
-The below uses R to plot temperatures in Townsville (horizontal and vertical bar graphs)<br />
+<h1>The below uses R to plot temperatures in Townsville (horizontal and vertical bar graphs).<h1/><br />
 Data source: BOM http://www.bom.gov.au/climate/data/index.shtml?bookmark=200.<br />
-Data file name: townsville_temp_BOM.xlsx.<br />
+Data file name: townsville_temp_BOM.xlsx in data3.zip.<br />
 Barplot of Townsville Temperatures: The Annual average maximum temperatures from 1941 to 2018.<br />
 Vertical and horizontal barplots are compiled.<br />
 
